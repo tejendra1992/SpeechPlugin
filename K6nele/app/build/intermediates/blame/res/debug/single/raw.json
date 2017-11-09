@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\raw\\error.wav",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\error.wav"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explore_end.ogg",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\explore_end.ogg"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explore_begin.ogg",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\explore_begin.ogg"
+    }
+]

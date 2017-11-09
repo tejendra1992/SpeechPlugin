@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_demo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\simple_demo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_ime_view.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\voice_ime_view.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat_demo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\activity_chat_demo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_settings.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\quick_settings.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recognizer.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\activity_recognizer.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_rewrite.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_rewrite.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rewrites_loader.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\activity_rewrites_loader.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\encoder_demo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\encoder_demo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recognizer.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\recognizer.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_handsfree_demo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\activity_handsfree_demo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_rewrites.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_rewrites.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_list.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\empty_list.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_switch.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\ab_switch.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_url_entry.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\alert_dialog_url_entry.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_detail.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_detail.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_search_demo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\voice_search_demo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_app.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_app.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_server.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_server.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_combo.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_combo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_error.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_error.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_grammar.xml",
+        "source": "E:\\K6nele\\app\\res\\layout\\list_item_grammar.xml"
+    }
+]

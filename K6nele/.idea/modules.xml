@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/K6nele.iml" filepath="$PROJECT_DIR$/K6nele.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/K6nele-app.iml" filepath="$PROJECT_DIR$/app/K6nele-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net-speech-api/net-speech-api.iml" filepath="$PROJECT_DIR$/net-speech-api/net-speech-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speechutils/speechutils.iml" filepath="$PROJECT_DIR$/speechutils/speechutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speechutils/app/speechutils-app.iml" filepath="$PROJECT_DIR$/speechutils/app/speechutils-app.iml" />
+    </modules>
+  </component>
+</project>

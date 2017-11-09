@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level4.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level4.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level1.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level1.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_input_extract_action_search.png",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_input_extract_action_search.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level0.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level0.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level5.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level5.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level2.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level2.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level3.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level3.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speak_now_level6.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-ldpi\\speak_now_level6.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_settings_24dp.png",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings_24dp.png"
+    }
+]

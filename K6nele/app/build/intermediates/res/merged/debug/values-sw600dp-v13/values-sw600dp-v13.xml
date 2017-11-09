@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutHeightButtonMicrophone">80dp</dimen>
+    <dimen name="layoutSpeechInputViewWidth">336dp</dimen>
+    <dimen name="textSize10sp">12sp</dimen>
+</resources>

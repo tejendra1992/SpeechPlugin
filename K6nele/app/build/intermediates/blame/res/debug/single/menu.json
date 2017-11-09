@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cm_app.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\cm_app.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\servers.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\servers.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apps.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\apps.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preferences_header.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\preferences_header.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cm_rewrites.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\cm_rewrites.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rewrites_selector.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\rewrites_selector.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\grammars.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\grammars.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rewrites.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\rewrites.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cm_grammar.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\cm_grammar.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\demo_grammar.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\demo_grammar.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cm_server.xml",
+        "source": "E:\\K6nele\\app\\res\\menu\\cm_server.xml"
+    }
+]

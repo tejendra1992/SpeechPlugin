@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_server_http.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\preferences_server_http.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\recognition_service_http.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\recognition_service_http.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\recognition_service_ws.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\recognition_service_ws.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_server_ws.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\preferences_server_ws.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\xml\\input_method.xml",
+        "source": "E:\\K6nele\\app\\res\\xml\\input_method.xml"
+    }
+]

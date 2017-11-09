@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_input_extract_action_search.png",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_input_extract_action_search.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notification_ime_default.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_notification_ime_default.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_add.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\govivace.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\govivace.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_sort_by_size.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_menu_sort_by_size.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_api_holo_dark.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_24dp.png",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_24dp.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_help.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_info_details.png",
+        "source": "E:\\K6nele\\app\\res\\drawable-xhdpi\\ic_menu_info_details.png"
+    }
+]

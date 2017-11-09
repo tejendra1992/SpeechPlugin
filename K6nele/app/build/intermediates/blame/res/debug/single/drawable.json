@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_transcribing.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_transcribing.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_go.xml",
+        "source": "E:\\K6nele\\app\\res\\drawable\\button_go.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_tap_and_speak.xml",
+        "source": "E:\\K6nele\\app\\res\\drawable\\button_tap_and_speak.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_1.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_1.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_0.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_0.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient.xml",
+        "source": "E:\\K6nele\\app\\res\\drawable\\rectangle_gradient.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_3.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_3.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_combo.xml",
+        "source": "E:\\K6nele\\app\\res\\drawable\\button_combo.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_waiting.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_waiting.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_2.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_2.xml"
+    }
+]

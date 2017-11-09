@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_settings_24dp.xml",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings_24dp.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_service.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_service.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_input_extract_action_search.xml",
+        "source": "E:\\K6nele\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_input_extract_action_search.xml"
+    },
+    {
+        "merged": "E:\\K6nele\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_voice_search_api_material.xml",
+        "source": "E:\\K6nele\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_voice_search_api_material.xml"
+    }
+]
